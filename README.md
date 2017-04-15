@@ -2,9 +2,7 @@
 
 
 ## To Install
-Bower: `bower install croppie`
-
-Npm: `npm install croppie`
+Bower: `bower install croppie-fix`
 
 Download:
 [croppie.js](croppie.js) & [croppie.css](croppie.css)
@@ -13,13 +11,6 @@ Download:
 ```
 <link rel="stylesheet" href="croppie.css" />
 <script src="croppie.js"></script>
-```
-
-## CDN
-cdnjs.com provides croppie via cdn https://cdnjs.com/libraries/croppie
-```
-https://cdnjs.cloudflare.com/ajax/libs/croppie/{version}/croppie.min.css
-https://cdnjs.cloudflare.com/ajax/libs/croppie/{version}/croppie.min.js
 ```
 
 
