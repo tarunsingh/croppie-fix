@@ -1,5 +1,5 @@
 {
-  "name": “croppie-fix”,
+  "name": "croppie-fix",
   "homepage": "https://github.com/tarunsingh/croppie-fix",
   "authors": [
     "Dustin Smith <thedustinsmith@gmail.com>",
@@ -24,7 +24,8 @@
     "demo",
     "test",
     "tests",
-    "index.html"
+    "index.html",
+    ".idea/*"
   ],
   "dependencies": {},
   "devDependencies": {
