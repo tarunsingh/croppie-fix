@@ -21,9 +21,6 @@
     "responsive",
     "fluid"
   ],
-  "dependencies": {
-    "angular": "^1.4.9"
-  },
   "license": "MIT",
   "ignore": [
     "dev",
